@@ -1,0 +1,3 @@
+respawn-location:
+  type: location
+  description: Sets the respawn location if you die in a specific region.

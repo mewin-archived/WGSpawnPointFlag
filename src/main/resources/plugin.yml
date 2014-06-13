@@ -1,0 +1,5 @@
+main: de.mewin.wgspf.WGSpawnPointFlagPlugin
+name: WGSpawnPointFlag
+authors: [ mewin ]
+version: 0.1
+depend: [ WorldGuard, WGCustomFlags ]
